@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(173, 248, 229);
+}
+.div1{
+    border: 5px solid rebeccapurple; background-color: rgba(248, 86, 248, 0.815); 
+    height: 4.5cm; border-radius: .5cm;
+}
+
+.div2{
+     color: rgba(255, 6, 6, 0.822); font-size: 50px; text-align: center;
+}
+
+.p1{
+    color: rgba(104, 96, 96, 0.76); font-size: 20px; text-align: center;
+}
+
+.p2{
+    text-align: right;  margin-right: .5cm;
+}
+ 
+.span{
+    color: rgba(45, 0, 90, 0.952); font-size: 13px; text-align: right
+}
+
+.div3{
+    margin-left: 1.1cm; margin-right: 1.1cm; 
+}
+
+.input1{  
+     size: 20cm; height:.4cm; color: brown; width: 5cm; text-align: center; background-color: rgb(251, 252, 252); border-color: blue; 
+      border-radius: .5cm;
+    
+}
